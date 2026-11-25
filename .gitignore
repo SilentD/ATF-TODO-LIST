@@ -1,0 +1,11 @@
+.*
+.git
+.env
+.streamlit/
+venv/
+*/repositories/__pychache__/
+*/utils/__pychache__/
+
+
+
+
